@@ -1,0 +1,13 @@
+http://schema.org/WebPage
+http://www.google.com.au/history/optout?hl=en
+https://accounts.google.com/ServiceLogin?hl=en
+https://drive.google.com/?tab=wo
+https://mail.google.com/mail/?tab=wm
+https://maps.google.com.au/maps?hl=en
+https://news.google.com.au/nwshp?hl=en
+https://play.google.com/?hl=en
+https://www.google.com.au/imghp?hl=en
+https://www.google.com.au/intl/en/about/products?tab=wh
+https://www.google.com/
+https://www.google.com/logos/doodles/2020/wear-a-mask-save-lives-copy-6753651837108810-2xa.gif
+https://www.youtube.com/?gl=AU

@@ -1,0 +1,8 @@
+
+default_url=$("https://www.google.com")
+
+@test "setting a default url for `geturls.sh` without file name" {
+  echo $default_url
+  run ./geturls.sh $default_url
+  [ "$status" -eq 0 ]
+}
